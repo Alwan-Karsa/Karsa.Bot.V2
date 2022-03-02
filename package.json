@@ -1,7 +1,7 @@
 {
-  "name": "Helga",
+  "name": "Alwan Karsa",
   "version": "0.0.1",
-  "description": "ZukaChan",
+  "description": "Alluka Zoldyck",
   "main": "node main",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Helga",
+  "author": "Alwan Karsa",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
